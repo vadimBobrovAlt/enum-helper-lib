@@ -1,0 +1,12 @@
+{
+  "name": "bobrovva/enum_helper_lib",
+  "description": "Helper для работы с enum",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "bobrovva\\enum_helper_lib\\": "src/"
+    }
+  },
+  "require": {}
+}
